@@ -1,0 +1,15 @@
+p {
+  font-weight: 600;
+  font-size: 18px;
+}
+button {
+  background-color: #966ca5;
+  color: white;
+  border-radius: 30px;
+  border: #966ca5;
+  height: 50px;
+  width: 200px;
+  font-size: 14px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, 0.2);
+  cursor: pointer;
+}
